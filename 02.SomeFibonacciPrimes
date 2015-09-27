@@ -1,0 +1,4 @@
+//Check if the 24th, 101st and 251st prime numbers are part of the base Fibonacci number set. What is their position?
+
+If we start counting from 0, 89 is a part of the Fibonacci number set and it takes position 11, 
+the second one – 547, is not a part of the number set, however, the third one – 1597, is a part of it and takes position 17.
