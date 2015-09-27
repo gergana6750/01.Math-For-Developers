@@ -1,0 +1,5 @@
+// You are given three right angled triangles. Find the length of their hypotenuses.
+
+1.	Catheti: 3 and 4 and 5 => Pythagorean triple;
+2.	Catheti:  10 and 12 and sqrt(244)~15.62;
+3.	Catheti: 100 and 250 and sqrt(72500)~269.26;
